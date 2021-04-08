@@ -1,3 +1,4 @@
+![diversity dashboard screenshot](https://user-images.githubusercontent.com/23224784/114099624-1e3e2080-9891-11eb-9a78-3b9f6b80555e.jpg)
 # diversity-dashboard
 AIHR People Analytics Certification Program Capstone Project: Diversity Dashboard for a Fictional at a Mid-Sized Fashion Product Producer
 
