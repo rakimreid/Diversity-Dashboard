@@ -12,7 +12,7 @@ The data is an Excel file containing the position, sex, ethnicity, race, and pay
 
 AIHR People Analytics Certification Program Capstone Project
 
-Business Problem: 
+# Business Problem
 
 Imagine you are an HR analyst at a mid-sized fashion product producer. 
 
