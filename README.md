@@ -8,7 +8,7 @@ View the dashboard here: https://app.powerbi.com/view?r=eyJrIjoiZGFjNjNmOWQtMjYy
 
 The data is an Excel file containing the position, sex, ethnicity, race, and pay rates. The data is a fictional dataset based on a real-world business problem. 
 
-# Project Description: 
+# Project Description
 
 AIHR People Analytics Certification Program Capstone Project
 
